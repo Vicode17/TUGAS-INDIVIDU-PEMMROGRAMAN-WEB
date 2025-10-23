@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web perkenalan</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div>
+        <div class="no-13">
+            <div class="kolom">
+            <div class="warna">
+               <h1><a href="#" class="a-navbar">home</a></h1>
+            </div>
+        </div>
+        <div class="kolom">
+            <div class="warna">
+                <h1><a href="about.me.html" class="a-navbar">about me</a></h1>
+               
+            </div>
+           </div>
+        <div class="kolom">
+            <div class="warna">
+                <h1><a href="kontak.html" class="a-navbar">kontak</a></h1>
+            </div>
+        </div>
+    </div>
+        <div>
+             <div class="container-content">
+                <img src="gambar/Waguri Kaoruko Wallpaper 4K.jpg" class="img-konten"/>
+                <img src="gambar/IMG_20250922_081717.jpg" class="img-konten"/>
+            </div>
+        </div>
+         <div>
+            <audio controls class="music">
+              <source src="music/SnapTik.Net_7546800400364555526.mp3" type="audio/mpeg">
+            </audio>
+          </div>
+           <div>
+             <video controls class="p">
+            <source src="video/1.mp4" type="video/mp4">
+            </video>
+          </div>
+        <div class="konten-1">
+                <h2 class="foter-h2">halo saya vico</h2>
+        </div>
+    </div>
+
+</body>
+</html>
